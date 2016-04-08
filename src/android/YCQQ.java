@@ -1,4 +1,4 @@
-package org.zy.yuancheng.qq;
+package org.apache.cordova.qq;
 
 import android.content.Intent;
 import android.os.Bundle;
