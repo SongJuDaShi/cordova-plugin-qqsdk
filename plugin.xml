@@ -119,7 +119,7 @@
     <hook type="before_plugin_install" src="scripts/android/android-hook.js" />
     <config-file target="res/xml/config.xml" parent="/*">
       <feature name="YCQQ" >
-        <param name="android-package" value="org.zy.yuancheng.qq.YCQQ"/>
+        <param name="android-package" value="org/apache/cordova.qq.YCQQ"/>
       </feature>
       <!--whitelist for QQ SDK-->
       <access origin = "https://openmobile.qq.com/*"/>
