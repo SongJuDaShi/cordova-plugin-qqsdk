@@ -26,7 +26,7 @@ public class YCQQ extends CordovaPlugin {
     private static Tencent mTencent;
     private CallbackContext currentCallbackContext;
     private String APP_ID;
-    private static final String QQ_APP_ID = "qq_app_id";
+    private static final String QQ_APP_ID = "1104719603";
     private static final String QQ_CANCEL_BY_USER = "cancelled by user";
     private static final String QQ_SHARE_ERROR = "error happened when sharing";
     private static final String QQ_LOGIN_ERROR = "error happened when logging";
